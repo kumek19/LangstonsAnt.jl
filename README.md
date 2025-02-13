@@ -1,8 +1,8 @@
-# LangstonsAnt.jl
+# LangtonsAnt.jl
 
 ## About Langston's ant
 
-<a href="https://en.wikipedia.org/wiki/Langton%27s_ant">Langston's ant (wilipedia)</a>
+<a href="https://en.wikipedia.org/wiki/Langton%27s_ant">Langton's ant (wilipedia)</a>
 
 
 ## Usage
